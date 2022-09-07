@@ -13,3 +13,8 @@ background: linear-gradient(to right, #ffdde1, #ee9ca7);
  border-radius: 7px;
 
 }
+.ref {
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+}
